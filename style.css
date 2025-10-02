@@ -1,3 +1,7 @@
+git add .
+git commit -m "Update home page / styling"
+git push
+
 body {
   background: lightyellow;
 }
@@ -640,4 +644,5 @@ form button:hover {
     font-size: 1.1rem;
   }
 }
+
 
